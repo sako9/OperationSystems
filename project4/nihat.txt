@@ -1,0 +1,6 @@
+Awesome. Nihat already responded to my questions.
+"- By movement, I meant the rotation of the disk platters, but if you consider the arm, the arm will move before servicing the request while seeking. The arm will only move while seeking. Even in SCAN and CLOOK, the arm is not moving constantly, only when there is a request to be serviced!
+
+- Requests are removed from the queue based on the scheduling algorithm. Once a request is removed to be dispatched to the disk, then another request is not handled until the disk finish servicing the current request. In other words, if you selected the request from the cylinder 50,000 and dispatched that request to the disk, then even the request in cylinder 49,999 comes to the system while seeking through the cylinder 50,000 from lets say cylinder 40,000; still the request from the cylinder 49,999 will not be handled before the request in cylinder 50,000 is completed. "
+It makes things easier.
+

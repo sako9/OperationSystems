@@ -1,0 +1,7 @@
+./ks_server&
+sleep 3
+./ks_client a searchdir/ &
+./ks_client a searchdir/ &
+./ks_client a searchdir/ &
+sleep 3
+./ks_client exit searchdir/

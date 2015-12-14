@@ -1,0 +1,11 @@
+searchdir/A is
+searchdir/A is
+searchdir/A is
+searchdir/B is
+searchdir/B is
+searchdir/B is
+searchdir is
+searchdir/A a
+
+
+
